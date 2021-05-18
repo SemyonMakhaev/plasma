@@ -47,7 +47,7 @@
         "babel-loader": "8.1.0",
         "babel-plugin-annotate-pure-calls": "0.4.0",
         "chromatic": "5.2.0",
-        "react": "16.13.1",
+        "react": "16.14.0",
         "react-dom": "16.13.1",
         "react-scripts": "3.4.1",
         "rollup": "2.42.2",
