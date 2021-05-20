@@ -1,8 +1,8 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 import throttle from 'lodash.throttle';
-import type { PickOptional, SnapType, AsProps } from '@sberdevices/plasma-core/types';
-import { animatedScrollToX, animatedScrollToY } from '@sberdevices/plasma-core/utils';
+import type { PickOptional, SnapType, AsProps } from '@sberdevices/plasma-core';
+import { animatedScrollToX, animatedScrollToY } from '@sberdevices/plasma-core';
 
 import { useForkRef, useDebouncedFunction } from '../../hooks';
 

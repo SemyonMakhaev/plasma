@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { css, InterpolationFunction } from 'styled-components';
-import type { SnapAlign, AsProps } from '@sberdevices/plasma-core/types';
+import type { SnapAlign, AsProps } from '@sberdevices/plasma-core';
 
 import { useCarouselItem } from './Carousel.hooks';
 
