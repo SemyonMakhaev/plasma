@@ -18,5 +18,5 @@ export type { RoundnessProps, Roundness } from './applyRoundness';
 export { applyView, views } from './applyView';
 export type { ViewProps, View } from './applyView';
 
-export { shadows } from './shadows';
-export { spacing, m, mx, my, ml, mr, mt, mb, p, px, py, pl, pr, pt, pb } from './spacing';
+export * from './shadows';
+export * from './spacing';
